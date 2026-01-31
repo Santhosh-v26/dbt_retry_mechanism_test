@@ -11,4 +11,3 @@ FROM read_files(
     format => 'csv',
     header => true
 )
-where 1 = 'a'
